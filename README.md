@@ -3,3 +3,4 @@
 In this project the admin/Staff will be able to manage the students
 he can add,view,edit and delete the student.
 there is the sql script which will be imported before access the project It's called db.php
+And also I used Html,css Bootsrap for good design and php to integrate with the database
